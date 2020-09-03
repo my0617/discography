@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sylvatica</title>
+    <link rel="stylesheet" href="stylesheet.css">
+      <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  </head>
+  <div class="header">
+      <a class="header-logo" href="https://my0617.github.io/s_my0617/">Sylvatica</a>
+      <a class="header-list" href="https://my0617.github.io/news">News</a>
+      <a class="header-list" href="https://my0617.github.io/live">Live</a>
+      <a class="header-list" href="https://my0617.github.io/discography">Discography</a>
+  </div>
+  <div class="contents">
+    <h1>Discography</h1>
+    <h2>comming soon...</h2>
+  </div>
+  <div class="footer">
+  <a href="https://www.instagram.com/sylvatica.jp/?hl=ja"><i class="fab fa-instagram"></i></a>
+  <a href="file:///C:/Users/chanm/Desktop/Sylvatica/contact.html"><i class="far fa-envelope"></i></a>
+  </div>
+  </body>
+</html>
